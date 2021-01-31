@@ -1,4 +1,6 @@
-(ok |okay |)breche (die |meine |alle |)(aktive |aktiven |)Erinnerung(en|) ab
-(ok |okay |)stoppe (die | meine |alle |)(aktive |aktiven |)Erinnerung(en|)
-(ok |okay |)entferne (die |meine |alle |)(aktive |aktiven |)Erinnerung(en|)
-(ok |okay |)bestätige (die |meine |alle |)(aktive |aktiven |)Erinnerung(en|)
+#/dialog/de-de/ToCancelInstructions.dialog gibt die Möglichkeiten vor!
+(ok|okay|) breche (die|meine|alle|) (aktive|aktiven|) Erinnerung(en|) ab
+(ok|okay|) stoppe (die| meine|alle|) (aktive|aktiven|) Erinnerung(en|)
+(ok|okay|) entferne (die|meine|alle|) (aktive|aktiven|) Erinnerung(en|)
+(ok|okay|) bestätige (die|meine|alle|) (aktive|aktiven|) Erinnerung(en|)
+Erinnerung abbrechen
